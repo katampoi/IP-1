@@ -85,7 +85,26 @@ li{
 .rose{
     background-image: url(/home/moringa/IP1/Myimages/Rose.png);
     height:200px;
-    width: 250px;
+    width: 200px;
+    background-size: cover ;
+
+}
+.albert{
+    background-image: url(/home/moringa/IP1/Myimages/Albert.png);
+    height:200px;
+    width: 200px;
     background-size:cover ;
 
+}
+.raphael{
+    background-image: url(/home/moringa/IP1/Myimages/Raphael.png);
+    height:200px;
+    width: 200px;
+    background-size:cover ; 
+}
+.christine{
+    background-image: url(/home/moringa/IP1/Myimages/Christine.png);
+    height:200px;
+    width: 200px;
+    background-size:cover ;  
 }
