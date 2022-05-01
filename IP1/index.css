@@ -1,3 +1,22 @@
-body{background-color:rgb(#EC4067);
-    font-family: sans-serif;
+.nav{
+     display: flex;
+     justify-content: space-between;
+     margin: 2rem;
+}
+.list{
+     display: flex;
+     justify-content: space-between;
+    list-style-type: none;
+}
+li{ 
+    padding: 0rem 2rem;
+}
+.moringa{
+    padding: 1rem;
+    font-size: larger;
+}
+.button{
+    background-color: #EC4067;
+    color: white;
+    border-color: white;
 }
