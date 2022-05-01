@@ -19,6 +19,8 @@ li{
     background-color: #EC4067;
     color: white;
     border-color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
 }
 .nuturing{
     display: flex;
@@ -43,6 +45,8 @@ li{
       color: #EC4067;
       margin: 0rem 2rem;
       border-color: #EC4067;
+      padding: 15px 32px ;
+      
 }
 .orientation{
     font-size: xx-large;
@@ -65,6 +69,16 @@ li{
 }
 .technical{
     margin: 7rem;
-    font-size: xx-large;
+}
+.row ::after{
+    content: "";
+    clear: both;
+    display: table;
+
+}
+.column{
+    float: left;
+  width: 33.33%;
+  padding: 5px;
 
 }
