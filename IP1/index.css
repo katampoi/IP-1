@@ -53,3 +53,7 @@ li{
     justify-content: space-between;
     margin: 7rem;
 }
+.board{
+    font-size: xx-large;
+    padding: 1rem 0rem;
+}
