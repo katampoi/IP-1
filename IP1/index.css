@@ -57,3 +57,11 @@ li{
     font-size: xx-large;
     padding: 1rem 0rem;
 }
+.sure{
+    display: flex;
+    
+    font-size: x-large;
+    font-weight: 600;
+    color: #EC4067;
+
+}
