@@ -70,41 +70,7 @@ li{
 .technical{
     margin: 7rem;
 }
-.tms{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding-top: 40px;
-    padding-left: 40px;
-}
-.tm{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-.rose{
-    background-image: url(/home/moringa/IP1/Myimages/Rose.png);
-    height:200px;
-    width: 200px;
-    background-size: cover ;
-
-}
-.albert{
-    background-image: url(/home/moringa/IP1/Myimages/Albert.png);
-    height:200px;
-    width: 200px;
-    background-size:cover ;
-
-}
-.raphael{
-    background-image: url(/home/moringa/IP1/Myimages/Raphael.png);
-    height:200px;
-    width: 200px;
-    background-size:cover ; 
-}
-.christine{
-    background-image: url(/home/moringa/IP1/Myimages/Christine.png);
-    height:200px;
-    width: 200px;
-    background-size:cover ;  
-}
+ .tm{
+     display: flex;
+     justify-content: space-between;
+ }
