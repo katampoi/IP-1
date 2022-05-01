@@ -20,3 +20,27 @@ li{
     color: white;
     border-color: white;
 }
+.nuturing{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem;
+}
+.section{
+      margin: 4rem ;
+
+}
+.tech{
+    color: #EC4067;
+    font-size: xx-large;
+    padding: 1rem 0rem;
+}
+.div-button{
+        margin: 2rem 0rem;
+        
+}
+.explore{
+      background-color: white;
+      color: #EC4067;
+      margin: 0rem 2rem;
+      border-: #EC4067;
+}
