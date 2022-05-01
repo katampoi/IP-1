@@ -82,4 +82,10 @@ li{
     flex-direction: column;
     justify-content: space-between;
 }
-.rose
+.rose{
+    background-image: url(/home/moringa/IP1/Myimages/Rose.png);
+    height:200px;
+    width: 250px;
+    background-size:cover ;
+
+}
