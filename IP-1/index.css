@@ -1,0 +1,77 @@
+.nav{
+     display: flex;
+     justify-content: space-between;
+     margin: 2rem;
+}
+.list{
+     display: flex;
+     justify-content: space-between;
+    list-style-type: none;
+}
+li{ 
+    padding: 0rem 2rem;
+}
+.moringa{
+    padding: 1rem;
+    font-size: larger;
+}
+.button{
+    background-color: #EC4067;
+    color: white;
+    border-color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+}
+.nuturing{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem;
+}
+.section{
+      margin: 4rem ;
+
+}
+.tech{
+    color: #EC4067;
+    font-size: xx-large;
+    padding: 1rem 0rem;
+}
+.div-button{
+        margin: 2rem 0rem;
+        
+}
+.explore{
+      background-color: white;
+      color: #EC4067;
+      margin: 0rem 2rem;
+      border-color: #EC4067;
+      padding: 15px 32px ;
+      
+}
+.orientation{
+    font-size: xx-large;
+    padding: 2rem 0rem;
+}
+.pic1{
+    display: flex;
+    justify-content: space-between;
+    margin: 7rem;
+}
+.board{
+    font-size: xx-large;
+    padding: 1rem 0rem;
+}
+.end{
+    
+    margin: 7rem;
+    padding: auto;
+    font-size: xx-large;
+}
+.technical{
+    margin: 7rem;
+}
+ #tm{
+     display: flex;
+     justify-content: space-between;
+     margin: 1rem 2rem;
+ }
