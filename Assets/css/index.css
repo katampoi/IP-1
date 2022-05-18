@@ -61,7 +61,7 @@ li{
     font-size: xx-large;
     padding: 1rem 0rem;
 }
-/*.end{
+.end{
     
     margin: 7rem;
     padding: auto;
@@ -74,4 +74,4 @@ li{
      display: flex;
      justify-content: space-between;
      margin: 1rem 2rem;
- } */
+ } 
