@@ -1,11 +1,11 @@
-# week-2-IP
+# week-1-IP
 
 ## 08/05/2022
 
 ## by simon katampoi
 
 ## Description
-This website is for a Resturant company
+This website is for moringa home page
 
 ## Technology used 
 Html and CSS
