@@ -11,7 +11,7 @@
 li{ 
     padding: 0rem 2rem;
 }
-/*.moringa{
+.moringa{
     padding: 1rem;
     font-size: larger;
 }
@@ -22,7 +22,7 @@ li{
     padding: 15px 32px;
     border-radius: 12px;
 }
-.nuturing{
+/*.nuturing{
     display: flex;
     justify-content: space-between;
     margin: 3rem;
