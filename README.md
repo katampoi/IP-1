@@ -6,8 +6,7 @@
 
 ## Description
 This website is for moringa home page
-
-## Technology used 
+## Technology used. 
 Html and CSS
 
 ## contact detail
